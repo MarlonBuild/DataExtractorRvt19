@@ -1,0 +1,8 @@
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\bin\Debug\ProSwift_DataExtractor.dll
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\bin\Debug\ProSwift_DataExtractor.pdb
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\obj\Debug\ProSwift_DataExtractor.csproj.AssemblyReference.cache
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\obj\Debug\ProSwift_DataExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\obj\Debug\ProSwift_DataExtractor.dll
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\obj\Debug\ProSwift_DataExtractor.pdb
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\obj\Debug\ProSwift_DataExtractor.csproj.GenerateResource.cache
+C:\Users\Marlon\source\repos\ProSwift_DataExtractor\ProSwift_DataExtractor\obj\Debug\Computos.Form1.resources

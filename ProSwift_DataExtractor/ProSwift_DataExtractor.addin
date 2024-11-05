@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>WallFloor Data</Text>
+    <Description>Extrae datos de muros suelos y techos</Description>
+    <Assembly>ProSwift_DataExtractor.dll</Assembly>
+    <FullClassName>ProSwift_DataExtractor.WallFloorData</FullClassName>
+    <ClientId>8aec67c4-9b02-4db3-8ba3-193f7e29cf40</ClientId>
+	<VendorId>ProSwift Constructs</VendorId>
+	<VendorDescription>ProSwift Constructs, Efficiency and Automation</VendorDescription>
+  </AddIn>
+    <AddIn Type="Command">
+		<Text>WallFloor Data</Text>
+		<Description>Extrae datos de muros suelos y techos</Description>
+		<Assembly>ProSwift_DataExtractor.dll</Assembly>
+		<FullClassName>ProSwift_DataExtractor.PipeData</FullClassName>
+		<ClientId>8e32dcd3-3be1-49c5-8ebe-3280dc170dee</ClientId>
+		<VendorId>ProSwift Constructs</VendorId>
+		<VendorDescription>ProSwift Constructs, Efficiency and Automation</VendorDescription>
+	</AddIn>
+  <AddIn Type="Application">
+    <Name>Application ProSwift_DataExtractor</Name>
+    <Assembly>ProSwift_DataExtractor.dll</Assembly>
+    <FullClassName>ProSwift_DataExtractor.App</FullClassName>
+    <ClientId>c7a8c86e-78e1-47a0-a7f7-876b9b2c9e62</ClientId>
+    <VendorId>ProSwift Constructs</VendorId>
+    <VendorDescription>ProSwift Constructs, Efficiency and Automation</VendorDescription>
+  </AddIn>
+</RevitAddIns>

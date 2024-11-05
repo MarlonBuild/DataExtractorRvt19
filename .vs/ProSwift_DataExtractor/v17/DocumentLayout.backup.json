@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\proswift_dataextractor\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|solutionrelative:proswift_dataextractor\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|c:\\users\\marlon\\source\\repos\\proswift_dataextractor\\proswift_dataextractor\\proswift_dataextractor.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|solutionrelative:proswift_dataextractor\\proswift_dataextractor.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\proswift_dataextractor\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|solutionrelative:proswift_dataextractor\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\proswift_dataextractor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|solutionrelative:proswift_dataextractor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\proswift_dataextractor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2E1528-E53F-4CB7-9615-5ACAB00FA7C3}|ProSwift_DataExtractor\\ProSwift_DataExtractor.csproj|solutionrelative:proswift_dataextractor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProSwift_DataExtractor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\Form1.Designer.cs",
+              "RelativeToolTip": "ProSwift_DataExtractor\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:13:15.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\Form1.cs",
+              "RelativeDocumentMoniker": "ProSwift_DataExtractor\\Form1.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProSwift_DataExtractor\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:26:52.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\Command.cs",
+              "RelativeDocumentMoniker": "ProSwift_DataExtractor\\Command.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\Command.cs",
+              "RelativeToolTip": "ProSwift_DataExtractor\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:22:58.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\App.cs",
+              "RelativeDocumentMoniker": "ProSwift_DataExtractor\\App.cs",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\App.cs",
+              "RelativeToolTip": "ProSwift_DataExtractor\\App.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:00:06.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProSwift_DataExtractor.addin",
+              "DocumentMoniker": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\ProSwift_DataExtractor.addin",
+              "RelativeDocumentMoniker": "ProSwift_DataExtractor\\ProSwift_DataExtractor.addin",
+              "ToolTip": "C:\\Users\\Marlon\\source\\repos\\ProSwift_DataExtractor\\ProSwift_DataExtractor\\ProSwift_DataExtractor.addin",
+              "RelativeToolTip": "ProSwift_DataExtractor\\ProSwift_DataExtractor.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-09-24T02:53:24.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
